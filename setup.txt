@@ -1,7 +1,7 @@
 components:
 esp32, soil moisture sensor, float switch, humidity & temperature sensor (DHT22) , relay module, water pump, 9v battery, 
 
-Component	Pin on Component (Connect to ESP32 Pins)
+connect Pins on Component (Connect to ESP32 Pins)
 0.96" OLED Display:
 GND - GND
 VCC	- 3.3V
